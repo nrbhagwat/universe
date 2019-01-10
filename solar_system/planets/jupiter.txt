@@ -1,1 +1,2 @@
-Jupiter is Blue.
+Jupiter is red.
+
