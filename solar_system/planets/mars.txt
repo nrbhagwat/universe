@@ -4,3 +4,5 @@ Mars is red.
 Mars dust is red.
 Mars has polar ice caps.
 Mars is a little more than half the size of earth.
+Mars is gaseous.
+Mars is double the size of earth.
